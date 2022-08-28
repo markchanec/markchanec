@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @markchanec
+- 👋 Hi, I’m E.C.Chan
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m open to any data science related job opportunities
