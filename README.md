@@ -1,8 +1,8 @@
-- 👋 Hi, I’m E.C.Chan
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m open to any data science related job opportunities
-- 📫 How to reach me markchanec@gmail.com
+- 👋 Hi
+- 👀 Having a look around?
+- 🌱 Hope you find something useful
+- 💞️ annyeonghaseyo
+- 📫 How to reach me: markchanec@gmail.com
 
 <!---
 markchanec/markchanec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
